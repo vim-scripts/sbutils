@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=740
+
+This is a collection of utilities that i will be updating regularly. I'm putting it online just in case somebody wants exactly what's there, if you're just browsing, you should probably skip this version.
+
+Starting with 2 utils:
+
+1. Count the no. of occurences of a -PERL- regex in a range ( :<range>Count <regex>)
+2. Insert a timestamp, formatted according to a time-format string at the current cursor position in the command mode ( <Leader>t) where <Leader> is usually '&#039
+3. Comment a block of C-code by selecting a range and hitting <Leader>C - it replaces /* and */ inside with {{{ and }}} to cope with nested comments.
+
+
